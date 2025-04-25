@@ -1,0 +1,23 @@
+C:/Users/peted/Desktop/new/AnonymousPipes Example/AnonymousPipesClass/bin/Debug/AnonymousPipesClass.exe
+C:/Users/peted/Desktop/new/AnonymousPipes Example/AnonymousPipesClass/bin/Debug/AnonymousPipesClass.pdb
+C:/Users/peted/Desktop/new/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.frmMain.resources
+C:/Users/peted/Desktop/new/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.Properties.Resources.resources
+C:/Users/peted/Desktop/new/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.csproj.GenerateResource.cache
+C:/Users/peted/Desktop/new/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.exe
+C:/Users/peted/Desktop/new/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.pdb
+C:/Users/peted/Desktop/new/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.csprojAssemblyReference.cache
+C:/Users/Pete/Desktop/AnonymousPipes Example/AnonymousPipesClass/bin/Debug/AnonymousPipesClass.exe
+C:/Users/Pete/Desktop/AnonymousPipes Example/AnonymousPipesClass/bin/Debug/AnonymousPipesClass.pdb
+C:/Users/Pete/Desktop/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.frmMain.resources
+C:/Users/Pete/Desktop/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.Properties.Resources.resources
+C:/Users/Pete/Desktop/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.csproj.GenerateResource.cache
+C:/Users/Pete/Desktop/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.exe
+C:/Users/Pete/Desktop/AnonymousPipes Example/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.pdb
+C:/Users/dell/Desktop/FDU/ok/System Programming/lectures_ok/4 pipe/ExampleProject/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.csproj.AssemblyReference.cache
+C:/Users/dell/Desktop/FDU/ok/System Programming/lectures_ok/4 pipe/ExampleProject/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.exe
+C:/Users/dell/Desktop/FDU/ok/System Programming/lectures_ok/4 pipe/ExampleProject/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.pdb
+C:/Users/dell/Desktop/FDU/ok/System Programming/lectures_ok/4 pipe/ok/ExampleProject/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.csproj.AssemblyReference.cache
+C:/Users/dell/Desktop/FDU/ok/System Programming/lectures_ok/4 pipe/ok/ExampleProject/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.exe
+C:/Users/dell/Desktop/FDU/ok/System Programming/lectures_ok/4 pipe/ok/ExampleProject/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.pdb
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/ExampleProject/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.exe
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/ExampleProject/AnonymousPipesClass/obj/x86/Debug/AnonymousPipesClass.pdb

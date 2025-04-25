@@ -1,0 +1,14 @@
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/bin/Debug/net9.0/MidTermQ1
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/bin/Debug/net9.0/MidTermQ1.deps.json
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/bin/Debug/net9.0/MidTermQ1.runtimeconfig.json
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/bin/Debug/net9.0/MidTermQ1.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/bin/Debug/net9.0/MidTermQ1.pdb
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/obj/Debug/net9.0/MidTermQ1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/obj/Debug/net9.0/MidTermQ1.AssemblyInfoInputs.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/obj/Debug/net9.0/MidTermQ1.AssemblyInfo.cs
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/obj/Debug/net9.0/MidTermQ1.csproj.CoreCompileInputs.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/obj/Debug/net9.0/MidTermQ1.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/obj/Debug/net9.0/refint/MidTermQ1.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/obj/Debug/net9.0/MidTermQ1.pdb
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/obj/Debug/net9.0/MidTermQ1.genruntimeconfig.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/MidTermQ1/MidTermQ1/obj/Debug/net9.0/ref/MidTermQ1.dll

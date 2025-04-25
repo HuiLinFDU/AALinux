@@ -1,0 +1,14 @@
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/bin/Debug/net9.0/ConsoleApp6
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/bin/Debug/net9.0/ConsoleApp6.deps.json
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/bin/Debug/net9.0/ConsoleApp6.runtimeconfig.json
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/bin/Debug/net9.0/ConsoleApp6.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/bin/Debug/net9.0/ConsoleApp6.pdb
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/obj/Debug/net9.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/obj/Debug/net9.0/ConsoleApp6.AssemblyInfoInputs.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/obj/Debug/net9.0/ConsoleApp6.AssemblyInfo.cs
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/obj/Debug/net9.0/ConsoleApp6.csproj.CoreCompileInputs.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/obj/Debug/net9.0/ConsoleApp6.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/obj/Debug/net9.0/refint/ConsoleApp6.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/obj/Debug/net9.0/ConsoleApp6.pdb
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/obj/Debug/net9.0/ConsoleApp6.genruntimeconfig.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ConsoleApp6/ConsoleApp6/obj/Debug/net9.0/ref/ConsoleApp6.dll

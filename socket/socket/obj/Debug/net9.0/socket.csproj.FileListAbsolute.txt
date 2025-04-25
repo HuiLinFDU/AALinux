@@ -1,0 +1,14 @@
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/bin/Debug/net9.0/socket
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/bin/Debug/net9.0/socket.deps.json
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/bin/Debug/net9.0/socket.runtimeconfig.json
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/bin/Debug/net9.0/socket.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/bin/Debug/net9.0/socket.pdb
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/obj/Debug/net9.0/socket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/obj/Debug/net9.0/socket.AssemblyInfoInputs.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/obj/Debug/net9.0/socket.AssemblyInfo.cs
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/obj/Debug/net9.0/socket.csproj.CoreCompileInputs.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/obj/Debug/net9.0/socket.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/obj/Debug/net9.0/refint/socket.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/obj/Debug/net9.0/socket.pdb
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/obj/Debug/net9.0/socket.genruntimeconfig.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/socket/socket/obj/Debug/net9.0/ref/socket.dll

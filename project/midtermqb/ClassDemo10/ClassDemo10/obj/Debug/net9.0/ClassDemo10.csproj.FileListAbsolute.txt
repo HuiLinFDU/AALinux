@@ -1,0 +1,14 @@
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/bin/Debug/net9.0/ClassDemo10
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/bin/Debug/net9.0/ClassDemo10.deps.json
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/bin/Debug/net9.0/ClassDemo10.runtimeconfig.json
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/bin/Debug/net9.0/ClassDemo10.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/bin/Debug/net9.0/ClassDemo10.pdb
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/obj/Debug/net9.0/ClassDemo10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/obj/Debug/net9.0/ClassDemo10.AssemblyInfoInputs.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/obj/Debug/net9.0/ClassDemo10.AssemblyInfo.cs
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/obj/Debug/net9.0/ClassDemo10.csproj.CoreCompileInputs.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/obj/Debug/net9.0/ClassDemo10.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/obj/Debug/net9.0/refint/ClassDemo10.dll
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/obj/Debug/net9.0/ClassDemo10.pdb
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/obj/Debug/net9.0/ClassDemo10.genruntimeconfig.cache
+/Users/lamfine/Documents/[FDU]/CSCI7645 SP/project/midtermqb/ClassDemo10/ClassDemo10/obj/Debug/net9.0/ref/ClassDemo10.dll
